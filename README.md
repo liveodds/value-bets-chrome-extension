@@ -12,6 +12,18 @@ Value Bet Finder is a Chrome extension that helps users identify potential value
 - 🔄 Automatic match detection
 - 🇬🇧 Language switch support
 
+ ## Technical Details
+- Built with vanilla JavaScript
+- Uses Chrome Extension Manifest V3
+- Implements side panel functionality
+- Real-time data processing
+
+## Privacy
+This extension:
+- Does not collect personal data
+- Does not store user information
+- Processes match data locally
+
 ## License
 Distributed under the MIT License.
 
