@@ -1,6 +1,6 @@
 # Privacy Policy for Value Bets Chrome Extension
 
-*Last updated: 18/11/2024]*
+*Last updated: [18/11/2024]*
 
 ## Introduction
 
