@@ -16,7 +16,7 @@ Value Bet Finder is a Chrome extension that helps users identify potential value
 Distributed under the MIT License.
 
 ## Contact
-Your Name - [@liveodds2](https://x.com/liveodds2)
+[Telegram](https://t.me/LiveOddsAndAlerts "Telegram")
 
 
 ## Acknowledgments
