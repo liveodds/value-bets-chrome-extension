@@ -1,83 +1,33 @@
-# Privacy Policy for Value Bets Chrome Extension
+# Privacy Policy for Match Analytics  
 
-*Last updated: [18/11/2024]*
+_Last Updated: [Insert Date]_  
 
-## Introduction
+Thank you for using Match Analytics. Your privacy is important to us. This Privacy Policy outlines how we collect, use, and protect your information while using our application.  
 
-Value Bets ("we", "our", or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and safeguard your information when you use our Chrome extension.
+## 1. Information We Collect  
+We do not collect or store personal information directly. However, Match Analytics may utilize third-party tools or APIs for real-time data retrieval, which may collect anonymized or aggregated data, including:  
+- Match statistics and related data.  
+- Application usage metrics (e.g., feature usage, error logs).  
 
-## Information Collection
+## 2. How We Use Your Information  
+The information collected is used to:  
+- Provide and improve the functionality of the app.  
+- Ensure real-time updates and accurate match analytics.  
+- Analyze app performance and troubleshoot issues.  
 
-### Information We Collect
+## 3. Third-Party Services  
+We may integrate third-party services to enhance the functionality of the app. These services may collect or process data independently. Please refer to their respective privacy policies for details.  
 
-Our extension collects the following limited information:
-- **Usage Data**: Number of value bet analyses performed per day
-- **Tab URLs**: Only for Stoiximan.gr domains to enable match analysis functionality
-- **Local Storage Data**: Subscription status and daily usage metrics
+## 4. Data Security  
+We prioritize the protection of your data. While we strive to use industry-standard security measures, no method of data transmission or storage is 100% secure. We encourage you to use the app responsibly.  
 
-### Information We DO NOT Collect
-- Personal identification information
-- Login credentials
-- Betting history or preferences
-- Financial information
-- Browsing history outside of Stoiximan.gr domains
+## 5. Your Privacy Choices  
+- **Opt-Out Options:** You can choose not to use certain features if you’re uncomfortable with data usage.  
+- **Contact Us:** If you have questions or concerns about your privacy, you can reach us at [Insert Contact Email].  
 
-## How We Use Your Information
+## 6. Updates to This Policy  
+We may update this Privacy Policy periodically to reflect changes in our practices or legal requirements. Updates will be posted within the app, and the “Last Updated” date will be revised accordingly.  
 
-The information we collect is used solely for:
-1. Providing match analysis functionality
-2. Improving the extension's performance and functionality
+By using Match Analytics, you agree to this Privacy Policy. If you do not agree, please discontinue use of the app.  
 
-## Data Storage
-
-- All usage data is stored locally on your device using Chrome's storage API
-- No data is transmitted to external servers except for match analysis API calls
-- Usage data is automatically cleared daily
-
-## Third-Party Services
-
-Our extension interacts with:
-- Stoiximan.gr (for match data)
-
-
-We do not share any user data with these or any other third-party services.
-
-## Data Security
-
-We implement security measures to protect your information:
-- Local storage encryption
-- Secure API communications
-- Regular security updates
-
-## User Rights
-
-You have the right to:
-- Clear all stored data by uninstalling the extension
-- Opt-out of usage tracking (premium feature)
-- Request information about stored data
-
-## Changes to Extension
-
-We may update our extension and privacy policy. Users will be notified of significant changes through:
-- Chrome Web Store updates
-- In-extension notifications
-- GitHub repository updates
-
-## Children's Privacy
-
-Our extension is not intended for users under 18 years of age, in compliance with online gambling regulations.
-
-
-
-## Compliance
-
-This extension complies with:
-- Chrome Web Store Developer Program Policies
-- GDPR requirements
-- Online gambling regulations
-
-
-
-## Disclaimer
-
-This extension is for informational purposes only and does not promote or encourage gambling. Users are responsible for complying with their local gambling laws and regulations.
+For any questions or concerns, please contact us at **[Insert Email Address]**.  
