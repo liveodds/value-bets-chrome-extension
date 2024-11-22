@@ -7,7 +7,6 @@ Thank you for using Match Analytics. Your privacy is important to us. This Priva
 ## 1. Information We Collect  
 We do not collect or store personal information directly. However, Match Analytics may utilize third-party tools or APIs for real-time data retrieval, which may collect anonymized or aggregated data, including:  
 - Match statistics and related data.  
-- Application usage metrics (e.g., feature usage, error logs).  
 
 ## 2. How We Use Your Information  
 The information collected is used to:  
@@ -30,4 +29,4 @@ We may update this Privacy Policy periodically to reflect changes in our practic
 
 By using Match Analytics, you agree to this Privacy Policy. If you do not agree, please discontinue use of the app.  
 
-For any questions or concerns, please contact us at **[Insert Email Address]**.  
+For any questions or concerns, please contact us at **[jliakos@gmail.com]**.  
