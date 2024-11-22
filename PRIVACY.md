@@ -1,6 +1,6 @@
 # Privacy Policy for Match Analytics  
 
-_Last Updated: [Insert Date]_  
+_Last Updated: 20/11/2024  
 
 Thank you for using Match Analytics. Your privacy is important to us. This Privacy Policy outlines how we collect, use, and protect your information while using our application.  
 
